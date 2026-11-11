@@ -329,10 +329,10 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=stulss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=stulss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stulss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stulss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
